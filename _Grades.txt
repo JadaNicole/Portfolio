@@ -1,0 +1,42 @@
+Portfolio final grade: 60
+
+Comments:  Not much I can say because you didn't give me any work to grade.  What you did turn is was mostly clean code and used CSS selectors properly.   
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 75
+(50% of overall grade)
+
+Points deducted for these items:
+    -3 Default document title not changed on 3 pages.
+    -2 Inconsistent navigation links on half the pages.
+    -1 Invalid index link included.
+    -2 Resume page does not use pdf version.
+    -10 Contact form not included.
+    -2 Portfolio link not included on 2 pages.
+    -3 Image not included on about page.
+    -2 Style tag used on about page instead of css.
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 90
+(25% of overall grade)
+
+Points deducted for these items:
+    -5 Google fonts not used.
+    -5 Font and background contrast ratio is not at least 3.0.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 0
+(25% of overall grade)
+
+Points deducted for these items:
+    -50 no media queries / mobile responsive design
+    -50 no animations or transitions included
