@@ -1,4 +1,4 @@
-Portfolio final grade: 60
+Portfolio final grade: 85
 
 Comments:  Not much I can say because you didn't give me any work to grade.  What you did turn is was mostly clean code and used CSS selectors properly.   
 
@@ -34,9 +34,8 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 0
+Grade: 100
 (25% of overall grade)
 
 Points deducted for these items:
-    -50 no media queries / mobile responsive design
-    -50 no animations or transitions included
+    None
